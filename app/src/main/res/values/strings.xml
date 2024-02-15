@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Emoji_dictionary</string>
+    <string name="title_activity_emoji_detail">EmojiDetailActivity</string>
+</resources>
